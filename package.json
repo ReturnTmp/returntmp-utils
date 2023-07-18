@@ -1,0 +1,22 @@
+{
+  "name": "returntmp-utils",
+  "version": "1.0.0",
+  "description": "常用工具函数库",
+  "main": "index.js",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReturnTmp/returntmp-utils"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "returntmp",
+  "license": "ISC"
+}
